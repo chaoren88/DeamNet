@@ -78,8 +78,8 @@ def main():
             B, C, H, W = INoisy.size()
 
             # padding to fit the input size of UNet
-            bottom = 16 - H % 16
-            right = 16 - W % 16
+            bottom = (16 - H % 16) % 16
+            right = (16 - H % 16) % 16
 
             padding = nn.ReflectionPad2d((0, right, 0, bottom))
             INoisy_input = padding(INoisy)
