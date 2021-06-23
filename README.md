@@ -26,7 +26,7 @@ In this paper, we propose a novel deep network for image denoising. Different fr
 
 ![image](readme_images/overview.png)
 
-We train our DeamNet with AWGN version and real-world noise version, the visual results are simply described as follows:
+We train our DeamNet for AWGN and real-world noise, and some visual results are simply shown as follows:
 
 ![image](readme_images/result_on_AWGN.png)
 
