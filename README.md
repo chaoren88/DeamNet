@@ -29,6 +29,7 @@ In this paper, we propose a novel deep network for image denoising. Different fr
 We train our DeamNet for AWGN and real-world noise, and some visual results are simply shown as follows:
 
 ![image](readme_images/result_on_AWGN.png)
+Visual quality comparison for ‘Starfish’ from Set12 with noise level 50
 
 ![image](readme_images/result_on_real-world.png)
 
