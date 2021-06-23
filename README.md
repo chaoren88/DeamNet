@@ -6,9 +6,7 @@ This is the research code for the paper:
 
 Chao Ren, Xiaohai He, Chuncheng Wang, and Zhibo Zhao, "Adaptive Consistency Prior based Deep Network for Image Denoising", CVPR 2021, oral. [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Ren_Adaptive_Consistency_Prior_Based_Deep_Network_for_Image_Denoising_CVPR_2021_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Ren_Adaptive_Consistency_Prior_CVPR_2021_supplemental.pdf)
 
-The proposed algorithm achieves the state-of-the-art performance on image denoising 
-
-All the datasets (Set5, Set14, Urban 100) and SIDD validation dataset, precomputed results and visual comparisons can be found in the following sections.
+The proposed method achieves the state-of-the-art performance on image denoising.
 
 ### Citation
 
